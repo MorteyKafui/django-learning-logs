@@ -22,6 +22,7 @@ INSTALLED_APPS = [
     # My apps
     "learning_logs.apps.LearningLogsConfig",
     "accounts.apps.AccountsConfig",
+    "django_bootstrap5",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
